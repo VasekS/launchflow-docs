@@ -2,11 +2,11 @@
 
 ### Launches
 
-A **launch** is a scheduled change with a time attached. Each launch moves through states you can see in the dashboard: _Scheduled_ (waiting), _Live_ (applied), _Rolled back_ (reverted), or _Failed_ (something prevented it — see [Troubleshooting](../reference/troubleshooting.md)).
+A **launch** is a scheduled change with a time attached. Each launch moves through states you can see in the dashboard: _Scheduled_ (waiting), _Live_ (applied), _Rolled back_ (reverted), or _Failed_ (something prevented it, see [Troubleshooting](../reference/troubleshooting.md)).
 
 ### Snapshots
 
-Before Launch Flow changes anything, it saves a **snapshot** of the original values — for prices, that's the existing amount on each product. The snapshot is what makes a clean rollback possible: Launch Flow always knows exactly what to restore.
+Before Launch Flow changes anything, it saves a **snapshot** of the original values for prices, that's the existing amount on each product. The snapshot is what makes a clean rollback possible: Launch Flow always knows exactly what to restore.
 
 ### Scheduled events
 
