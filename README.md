@@ -1,12 +1,12 @@
 ---
 description: >-
   Schedule price changes, theme publishes, and page updates to go live
-  automatically — and roll everything back the moment your sale ends.
+  automatically and roll everything back the moment your sale ends.
 ---
 
 # Welcome to Launch Flow
 
-Launch Flow is a Shopify app that lets you schedule store changes ahead of time so they fire automatically — no staying up at midnight to flip prices for a big sale, and no manual cleanup afterward.
+Launch Flow is a Shopify app that lets you schedule store changes ahead of time so they fire automatically. No staying up at midnight to flip prices for a big sale, and no manual cleanup afterward.
 
 You set up a **launch**: a change (or set of changes) and the date and time it should go live. When that moment arrives, Launch Flow applies the change for you. Before it does, it saves a snapshot of the original values, so when your promotion ends it can restore everything exactly as it was.
 
