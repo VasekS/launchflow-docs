@@ -2,7 +2,7 @@
 
 Price changes are the heart of Launch Flow. You select the products or collections, set the new prices, and choose when they go live.
 
-Unlike Shopify's built-in discount codes, Launch Flow changes the **actual listed price** of the product. That means the new price shows everywhere the product appears — collection pages, search, product pages — without the customer needing to enter a code at checkout.
+Unlike Shopify's built-in discount codes, Launch Flow changes the **actual listed price** of the product. That means the new price shows everywhere the product appears: collection pages, search, product pages without the customer needing to enter a code at checkout.
 
 ### How it works
 
